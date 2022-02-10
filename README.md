@@ -1,2 +1,3 @@
 # Audio-project
-CS 582
+# CS 582
+include numpy as np
